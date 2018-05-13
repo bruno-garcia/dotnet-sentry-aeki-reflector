@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27701.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aeki.Api", "Aeki.Api.csproj", "{F70E05FC-0B4A-481D-8C9B-3945A11CEBE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70E05FC-0B4A-481D-8C9B-3945A11CEBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70E05FC-0B4A-481D-8C9B-3945A11CEBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70E05FC-0B4A-481D-8C9B-3945A11CEBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70E05FC-0B4A-481D-8C9B-3945A11CEBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC120B54-85E9-4BE2-B4FD-460E470F9A4B}
+	EndGlobalSection
+EndGlobal
